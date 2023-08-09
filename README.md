@@ -6,7 +6,7 @@ I am an aspiring Front End developer.
 
 *   🌍  I'm based in Agra, India
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://stefantopalovicdev.vercel.app/'>Portfolio</a>
-*   🧠  Currently learning React.js, Next.js, and TypeScript
+*   🧠  Currently learning React.js, Next.js, Tailwind, and TypeScript
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
 ### Skills
