@@ -5,7 +5,7 @@ I am an aspiring Front End developer.
 --------------------------
 
 *   🌍  I'm based in Agra, India
-*   🖥️  See my projects at <a target="_blank" href='https://shubhammehradev.vercel.app/#projects'>Projects</a>
+*   🖥️  See my projects at <a target="_blank" href='https://shubhammehradev.vercel.app'>Projects</a>
 *   🧠  Currently learning React.js, Next.js, Tailwind, and TypeScript
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
